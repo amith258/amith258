@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Amith Raj
 
-<!--
-**amith258/amith258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCom Graduate | 📊 Aspiring Data Analyst  
+💻 Python | SQL | Power BI | Excel | Tableau  
+📈 Focused on Data Analysis | Reporting | Visualization  
 
-Here are some ideas to get you started:
+## 🛠️ My Projects
+- 🔍 [Credit Card Fraud Detection]
+- 🎵 [Spotify Dashboard (Power BI)]
+- 🚗 [EV Sustainability Dashboard (Tableau)]
+- [Blinkit Sales analysis Dashboard(excel)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+[![LinkedIn](https://www.linkedin.com/in/amith-raj-sr-665820325/)](https://www.linkedin.com/in/amith-raj-sr-665820325/)
+[![Gmail](amithtraj2003@gmail.com)](amithtraj2003@gmail.com)
+
+
